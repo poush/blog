@@ -4,7 +4,6 @@ title:  "Setting up Oracle 11g in Windows"
 date:   2017-04-25 13:26:44 +0530
 categories: general windows
 layout: post
-date: 2016-02-24 22:44
 tag:
 - oracle
 - database
